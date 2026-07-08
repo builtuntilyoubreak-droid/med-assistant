@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CareShare | Single-Clinic Inventory Manager</title>
+    <!-- Outfit & Inter Fonts (with native system-ui fallback if offline) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- Link the Design System CSS -->
+    <link rel="stylesheet" href="index.css" />
+  </head>
+  <body>
+    <!-- App layout -->
+    <div class="app-container">
+      <!-- Sidebar container dynamically filled -->
+      <aside id="sidebar-container" class="sidebar"></aside>
+
+      <!-- Main content panel -->
+      <main class="main-content">
+        <!-- Header container dynamically filled -->
+        <header id="header-container" class="header"></header>
+
+        <!-- Alerts warning banner if server is offline -->
+        <div id="alerts-banner-container"></div>
+
+        <!-- Main tab page view dynamically loaded -->
+        <div id="tab-content">
+          <div class="loader-container">
+            <div class="loader"></div>
+            <div>Synchronizing clinic database...</div>
+          </div>
+        </div>
+      </main>
+    </div>
+
+    <!-- Modal dialogue: Record delivery intake -->
+    <div id="add-stock-modal" class="modal-overlay" style="display: none;">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h3 class="modal-title">Record Local Delivery Intake</h3>
+          <button onclick="showAddStockModal(false)" class="modal-close" style="font-size: 1.15rem; font-weight: 700;">×</button>
+        </div>
+
+        <form onsubmit="submitAddStock(event)">
+          <div class="form-group">
+            <label class="form-label">Medicine Item Name</label>
+            <input 
+              type="text" 
+              id="modal-item"
+              placeholder="e.g. Surgical Masks" 
+              class="form-control"
+              required
+            />
+          </div>
+
+          <div class="form-group">
+            <label class="form-label">Batch ID</label>
+            <input 
+              type="text" 
+              id="modal-batch-id"
+              placeholder="e.g. A-MSK-4" 
+              class="form-control"
+              required
+            />
+          </div>
+
+          <div class="form-row">
+            <div class="form-group">
+              <label class="form-label">Quantity</label>
+              <input 
+                type="number" 
+                id="modal-qty"
+                placeholder="e.g. 1000" 
+                class="form-control"
+                required
+                min="1"
+              />
+            </div>
+
+            <div class="form-group">
+              <label class="form-label">Expiration Date</label>
+              <input 
+                type="date" 
+                id="modal-expiry"
+                class="form-control"
+                required
+              />
+            </div>
+          </div>
+
+          <div class="form-actions">
+            <button 
+              type="button" 
+              onclick="showAddStockModal(false)" 
+              class="btn btn-secondary"
+            >
+              Cancel
+            </button>
+            <button type="submit" class="btn btn-success">
+              Record Delivery
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+
+    <!-- Toasts notification block -->
+    <div id="toast-container" class="toast-container"></div>
+
+    <!-- Main Client Script -->
+    <script src="app.js"></script>
+  </body>
+</html>

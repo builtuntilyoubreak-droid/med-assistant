@@ -1,0 +1,541 @@
+date,clinic,item,units_used,starting_stock,remaining_stock
+2026-06-01,Clinic A,Antiseptic Wipes,55,1350,1295
+2026-06-01,Clinic A,Bandages,71,900,829
+2026-06-01,Clinic A,Nitrile Gloves (pair),164,3000,2836
+2026-06-01,Clinic A,Paracetamol Tablets,117,2250,2133
+2026-06-01,Clinic A,Surgical Masks,126,1800,1674
+2026-06-01,Clinic A,Syringes,91,1200,1109
+2026-06-01,Clinic B,Antiseptic Wipes,138,1755,1617
+2026-06-01,Clinic B,Bandages,65,1170,1105
+2026-06-01,Clinic B,Nitrile Gloves (pair),246,3900,3654
+2026-06-01,Clinic B,Paracetamol Tablets,220,2925,2705
+2026-06-01,Clinic B,Surgical Masks,159,2340,2181
+2026-06-01,Clinic B,Syringes,104,1560,1456
+2026-06-01,Clinic C,Antiseptic Wipes,68,944,876
+2026-06-01,Clinic C,Bandages,35,630,595
+2026-06-01,Clinic C,Nitrile Gloves (pair),168,2100,1932
+2026-06-01,Clinic C,Paracetamol Tablets,88,1575,1487
+2026-06-01,Clinic C,Surgical Masks,85,1260,1175
+2026-06-01,Clinic C,Syringes,61,840,779
+2026-06-02,Clinic A,Antiseptic Wipes,112,1350,1238
+2026-06-02,Clinic A,Bandages,52,900,848
+2026-06-02,Clinic A,Nitrile Gloves (pair),198,3000,2802
+2026-06-02,Clinic A,Paracetamol Tablets,146,2250,2104
+2026-06-02,Clinic A,Surgical Masks,138,1800,1662
+2026-06-02,Clinic A,Syringes,77,1200,1123
+2026-06-02,Clinic B,Antiseptic Wipes,127,1755,1628
+2026-06-02,Clinic B,Bandages,84,1170,1086
+2026-06-02,Clinic B,Nitrile Gloves (pair),244,3900,3656
+2026-06-02,Clinic B,Paracetamol Tablets,209,2925,2716
+2026-06-02,Clinic B,Surgical Masks,145,2340,2195
+2026-06-02,Clinic B,Syringes,114,1560,1446
+2026-06-02,Clinic C,Antiseptic Wipes,71,944,873
+2026-06-02,Clinic C,Bandages,35,630,595
+2026-06-02,Clinic C,Nitrile Gloves (pair),130,2100,1970
+2026-06-02,Clinic C,Paracetamol Tablets,125,1575,1450
+2026-06-02,Clinic C,Surgical Masks,114,1260,1146
+2026-06-02,Clinic C,Syringes,51,840,789
+2026-06-03,Clinic A,Antiseptic Wipes,103,1350,1247
+2026-06-03,Clinic A,Bandages,68,900,832
+2026-06-03,Clinic A,Nitrile Gloves (pair),171,3000,2829
+2026-06-03,Clinic A,Paracetamol Tablets,164,2250,2086
+2026-06-03,Clinic A,Surgical Masks,118,1800,1682
+2026-06-03,Clinic A,Syringes,68,1200,1132
+2026-06-03,Clinic B,Antiseptic Wipes,137,1755,1618
+2026-06-03,Clinic B,Bandages,81,1170,1089
+2026-06-03,Clinic B,Nitrile Gloves (pair),271,3900,3629
+2026-06-03,Clinic B,Paracetamol Tablets,202,2925,2723
+2026-06-03,Clinic B,Surgical Masks,139,2340,2201
+2026-06-03,Clinic B,Syringes,106,1560,1454
+2026-06-03,Clinic C,Antiseptic Wipes,45,944,899
+2026-06-03,Clinic C,Bandages,47,630,583
+2026-06-03,Clinic C,Nitrile Gloves (pair),142,2100,1958
+2026-06-03,Clinic C,Paracetamol Tablets,99,1575,1476
+2026-06-03,Clinic C,Surgical Masks,94,1260,1166
+2026-06-03,Clinic C,Syringes,59,840,781
+2026-06-04,Clinic A,Antiseptic Wipes,74,1350,1276
+2026-06-04,Clinic A,Bandages,78,900,822
+2026-06-04,Clinic A,Nitrile Gloves (pair),178,3000,2822
+2026-06-04,Clinic A,Paracetamol Tablets,174,2250,2076
+2026-06-04,Clinic A,Surgical Masks,111,1800,1689
+2026-06-04,Clinic A,Syringes,76,1200,1124
+2026-06-04,Clinic B,Antiseptic Wipes,134,1755,1621
+2026-06-04,Clinic B,Bandages,87,1170,1083
+2026-06-04,Clinic B,Nitrile Gloves (pair),245,3900,3655
+2026-06-04,Clinic B,Paracetamol Tablets,221,2925,2704
+2026-06-04,Clinic B,Surgical Masks,112,2340,2228
+2026-06-04,Clinic B,Syringes,107,1560,1453
+2026-06-04,Clinic C,Antiseptic Wipes,47,944,897
+2026-06-04,Clinic C,Bandages,40,630,590
+2026-06-04,Clinic C,Nitrile Gloves (pair),129,2100,1971
+2026-06-04,Clinic C,Paracetamol Tablets,85,1575,1490
+2026-06-04,Clinic C,Surgical Masks,79,1260,1181
+2026-06-04,Clinic C,Syringes,65,840,775
+2026-06-05,Clinic A,Antiseptic Wipes,82,1350,1268
+2026-06-05,Clinic A,Bandages,68,900,832
+2026-06-05,Clinic A,Nitrile Gloves (pair),217,3000,2783
+2026-06-05,Clinic A,Paracetamol Tablets,154,2250,2096
+2026-06-05,Clinic A,Surgical Masks,102,1800,1698
+2026-06-05,Clinic A,Syringes,82,1200,1118
+2026-06-05,Clinic B,Antiseptic Wipes,109,1755,1646
+2026-06-05,Clinic B,Bandages,68,1170,1102
+2026-06-05,Clinic B,Nitrile Gloves (pair),246,3900,3654
+2026-06-05,Clinic B,Paracetamol Tablets,183,2925,2742
+2026-06-05,Clinic B,Surgical Masks,172,2340,2168
+2026-06-05,Clinic B,Syringes,113,1560,1447
+2026-06-05,Clinic C,Antiseptic Wipes,69,944,875
+2026-06-05,Clinic C,Bandages,42,630,588
+2026-06-05,Clinic C,Nitrile Gloves (pair),152,2100,1948
+2026-06-05,Clinic C,Paracetamol Tablets,113,1575,1462
+2026-06-05,Clinic C,Surgical Masks,67,1260,1193
+2026-06-05,Clinic C,Syringes,51,840,789
+2026-06-06,Clinic A,Antiseptic Wipes,60,1350,1290
+2026-06-06,Clinic A,Bandages,59,900,841
+2026-06-06,Clinic A,Nitrile Gloves (pair),197,3000,2803
+2026-06-06,Clinic A,Paracetamol Tablets,114,2250,2136
+2026-06-06,Clinic A,Surgical Masks,133,1800,1667
+2026-06-06,Clinic A,Syringes,74,1200,1126
+2026-06-06,Clinic B,Antiseptic Wipes,108,1755,1647
+2026-06-06,Clinic B,Bandages,64,1170,1106
+2026-06-06,Clinic B,Nitrile Gloves (pair),215,3900,3685
+2026-06-06,Clinic B,Paracetamol Tablets,237,2925,2688
+2026-06-06,Clinic B,Surgical Masks,122,2340,2218
+2026-06-06,Clinic B,Syringes,112,1560,1448
+2026-06-06,Clinic C,Antiseptic Wipes,51,944,893
+2026-06-06,Clinic C,Bandages,40,630,590
+2026-06-06,Clinic C,Nitrile Gloves (pair),158,2100,1942
+2026-06-06,Clinic C,Paracetamol Tablets,99,1575,1476
+2026-06-06,Clinic C,Surgical Masks,79,1260,1181
+2026-06-06,Clinic C,Syringes,46,840,794
+2026-06-07,Clinic A,Antiseptic Wipes,79,1350,1271
+2026-06-07,Clinic A,Bandages,63,900,837
+2026-06-07,Clinic A,Nitrile Gloves (pair),140,3000,2860
+2026-06-07,Clinic A,Paracetamol Tablets,114,2250,2136
+2026-06-07,Clinic A,Surgical Masks,137,1800,1663
+2026-06-07,Clinic A,Syringes,87,1200,1113
+2026-06-07,Clinic B,Antiseptic Wipes,154,1755,1601
+2026-06-07,Clinic B,Bandages,78,1170,1092
+2026-06-07,Clinic B,Nitrile Gloves (pair),236,3900,3664
+2026-06-07,Clinic B,Paracetamol Tablets,187,2925,2738
+2026-06-07,Clinic B,Surgical Masks,158,2340,2182
+2026-06-07,Clinic B,Syringes,109,1560,1451
+2026-06-07,Clinic C,Antiseptic Wipes,74,944,870
+2026-06-07,Clinic C,Bandages,53,630,577
+2026-06-07,Clinic C,Nitrile Gloves (pair),144,2100,1956
+2026-06-07,Clinic C,Paracetamol Tablets,111,1575,1464
+2026-06-07,Clinic C,Surgical Masks,70,1260,1190
+2026-06-07,Clinic C,Syringes,58,840,782
+2026-06-08,Clinic A,Antiseptic Wipes,83,1350,1267
+2026-06-08,Clinic A,Bandages,49,900,851
+2026-06-08,Clinic A,Nitrile Gloves (pair),158,3000,2842
+2026-06-08,Clinic A,Paracetamol Tablets,116,2250,2134
+2026-06-08,Clinic A,Surgical Masks,149,1800,1651
+2026-06-08,Clinic A,Syringes,70,1200,1130
+2026-06-08,Clinic B,Antiseptic Wipes,124,1755,1631
+2026-06-08,Clinic B,Bandages,62,1170,1108
+2026-06-08,Clinic B,Nitrile Gloves (pair),250,3900,3650
+2026-06-08,Clinic B,Paracetamol Tablets,222,2925,2703
+2026-06-08,Clinic B,Surgical Masks,173,2340,2167
+2026-06-08,Clinic B,Syringes,75,1560,1485
+2026-06-08,Clinic C,Antiseptic Wipes,36,944,908
+2026-06-08,Clinic C,Bandages,34,630,596
+2026-06-08,Clinic C,Nitrile Gloves (pair),211,2100,1889
+2026-06-08,Clinic C,Paracetamol Tablets,110,1575,1465
+2026-06-08,Clinic C,Surgical Masks,112,1260,1148
+2026-06-08,Clinic C,Syringes,60,840,780
+2026-06-09,Clinic A,Antiseptic Wipes,109,1350,1241
+2026-06-09,Clinic A,Bandages,58,900,842
+2026-06-09,Clinic A,Nitrile Gloves (pair),185,3000,2815
+2026-06-09,Clinic A,Paracetamol Tablets,154,2250,2096
+2026-06-09,Clinic A,Surgical Masks,104,1800,1696
+2026-06-09,Clinic A,Syringes,71,1200,1129
+2026-06-09,Clinic B,Antiseptic Wipes,116,1755,1639
+2026-06-09,Clinic B,Bandages,70,1170,1100
+2026-06-09,Clinic B,Nitrile Gloves (pair),213,3900,3687
+2026-06-09,Clinic B,Paracetamol Tablets,252,2925,2673
+2026-06-09,Clinic B,Surgical Masks,152,2340,2188
+2026-06-09,Clinic B,Syringes,71,1560,1489
+2026-06-09,Clinic C,Antiseptic Wipes,51,944,893
+2026-06-09,Clinic C,Bandages,32,630,598
+2026-06-09,Clinic C,Nitrile Gloves (pair),164,2100,1936
+2026-06-09,Clinic C,Paracetamol Tablets,92,1575,1483
+2026-06-09,Clinic C,Surgical Masks,86,1260,1174
+2026-06-09,Clinic C,Syringes,51,840,789
+2026-06-10,Clinic A,Antiseptic Wipes,107,1350,1243
+2026-06-10,Clinic A,Bandages,49,900,851
+2026-06-10,Clinic A,Nitrile Gloves (pair),171,3000,2829
+2026-06-10,Clinic A,Paracetamol Tablets,160,2250,2090
+2026-06-10,Clinic A,Surgical Masks,163,1800,1637
+2026-06-10,Clinic A,Syringes,93,1200,1107
+2026-06-10,Clinic B,Antiseptic Wipes,106,1755,1649
+2026-06-10,Clinic B,Bandages,85,1170,1085
+2026-06-10,Clinic B,Nitrile Gloves (pair),258,3900,3642
+2026-06-10,Clinic B,Paracetamol Tablets,155,2925,2770
+2026-06-10,Clinic B,Surgical Masks,152,2340,2188
+2026-06-10,Clinic B,Syringes,91,1560,1469
+2026-06-10,Clinic C,Antiseptic Wipes,62,944,882
+2026-06-10,Clinic C,Bandages,43,630,587
+2026-06-10,Clinic C,Nitrile Gloves (pair),144,2100,1956
+2026-06-10,Clinic C,Paracetamol Tablets,110,1575,1465
+2026-06-10,Clinic C,Surgical Masks,66,1260,1194
+2026-06-10,Clinic C,Syringes,73,840,767
+2026-06-11,Clinic A,Antiseptic Wipes,98,1350,1252
+2026-06-11,Clinic A,Bandages,73,900,827
+2026-06-11,Clinic A,Nitrile Gloves (pair),208,3000,2792
+2026-06-11,Clinic A,Paracetamol Tablets,188,2250,2062
+2026-06-11,Clinic A,Surgical Masks,146,1800,1654
+2026-06-11,Clinic A,Syringes,74,1200,1126
+2026-06-11,Clinic B,Antiseptic Wipes,157,1755,1598
+2026-06-11,Clinic B,Bandages,104,1170,1066
+2026-06-11,Clinic B,Nitrile Gloves (pair),204,3900,3696
+2026-06-11,Clinic B,Paracetamol Tablets,189,2925,2736
+2026-06-11,Clinic B,Surgical Masks,161,2340,2179
+2026-06-11,Clinic B,Syringes,77,1560,1483
+2026-06-11,Clinic C,Antiseptic Wipes,71,944,873
+2026-06-11,Clinic C,Bandages,34,630,596
+2026-06-11,Clinic C,Nitrile Gloves (pair),176,2100,1924
+2026-06-11,Clinic C,Paracetamol Tablets,98,1575,1477
+2026-06-11,Clinic C,Surgical Masks,79,1260,1181
+2026-06-11,Clinic C,Syringes,44,840,796
+2026-06-12,Clinic A,Antiseptic Wipes,92,1350,1258
+2026-06-12,Clinic A,Bandages,77,900,823
+2026-06-12,Clinic A,Nitrile Gloves (pair),194,3000,2806
+2026-06-12,Clinic A,Paracetamol Tablets,166,2250,2084
+2026-06-12,Clinic A,Surgical Masks,120,1800,1680
+2026-06-12,Clinic A,Syringes,85,1200,1115
+2026-06-12,Clinic B,Antiseptic Wipes,96,1755,1659
+2026-06-12,Clinic B,Bandages,59,1170,1111
+2026-06-12,Clinic B,Nitrile Gloves (pair),258,3900,3642
+2026-06-12,Clinic B,Paracetamol Tablets,184,2925,2741
+2026-06-12,Clinic B,Surgical Masks,103,2340,2237
+2026-06-12,Clinic B,Syringes,88,1560,1472
+2026-06-12,Clinic C,Antiseptic Wipes,59,944,885
+2026-06-12,Clinic C,Bandages,38,630,592
+2026-06-12,Clinic C,Nitrile Gloves (pair),108,2100,1992
+2026-06-12,Clinic C,Paracetamol Tablets,123,1575,1452
+2026-06-12,Clinic C,Surgical Masks,97,1260,1163
+2026-06-12,Clinic C,Syringes,56,840,784
+2026-06-13,Clinic A,Antiseptic Wipes,86,1350,1264
+2026-06-13,Clinic A,Bandages,52,900,848
+2026-06-13,Clinic A,Nitrile Gloves (pair),247,3000,2753
+2026-06-13,Clinic A,Paracetamol Tablets,156,2250,2094
+2026-06-13,Clinic A,Surgical Masks,131,1800,1669
+2026-06-13,Clinic A,Syringes,78,1200,1122
+2026-06-13,Clinic B,Antiseptic Wipes,176,1755,1579
+2026-06-13,Clinic B,Bandages,82,1170,1088
+2026-06-13,Clinic B,Nitrile Gloves (pair),211,3900,3689
+2026-06-13,Clinic B,Paracetamol Tablets,256,2925,2669
+2026-06-13,Clinic B,Surgical Masks,161,2340,2179
+2026-06-13,Clinic B,Syringes,106,1560,1454
+2026-06-13,Clinic C,Antiseptic Wipes,67,944,877
+2026-06-13,Clinic C,Bandages,37,630,593
+2026-06-13,Clinic C,Nitrile Gloves (pair),133,2100,1967
+2026-06-13,Clinic C,Paracetamol Tablets,126,1575,1449
+2026-06-13,Clinic C,Surgical Masks,72,1260,1188
+2026-06-13,Clinic C,Syringes,41,840,799
+2026-06-14,Clinic A,Antiseptic Wipes,71,1350,1279
+2026-06-14,Clinic A,Bandages,58,900,842
+2026-06-14,Clinic A,Nitrile Gloves (pair),177,3000,2823
+2026-06-14,Clinic A,Paracetamol Tablets,137,2250,2113
+2026-06-14,Clinic A,Surgical Masks,105,1800,1695
+2026-06-14,Clinic A,Syringes,48,1200,1152
+2026-06-14,Clinic B,Antiseptic Wipes,167,1755,1588
+2026-06-14,Clinic B,Bandages,55,1170,1115
+2026-06-14,Clinic B,Nitrile Gloves (pair),256,3900,3644
+2026-06-14,Clinic B,Paracetamol Tablets,153,2925,2772
+2026-06-14,Clinic B,Surgical Masks,133,2340,2207
+2026-06-14,Clinic B,Syringes,70,1560,1490
+2026-06-14,Clinic C,Antiseptic Wipes,58,944,886
+2026-06-14,Clinic C,Bandages,32,630,598
+2026-06-14,Clinic C,Nitrile Gloves (pair),185,2100,1915
+2026-06-14,Clinic C,Paracetamol Tablets,111,1575,1464
+2026-06-14,Clinic C,Surgical Masks,69,1260,1191
+2026-06-14,Clinic C,Syringes,87,840,753
+2026-06-15,Clinic A,Antiseptic Wipes,98,1350,1252
+2026-06-15,Clinic A,Bandages,69,900,831
+2026-06-15,Clinic A,Nitrile Gloves (pair),165,3000,2835
+2026-06-15,Clinic A,Paracetamol Tablets,141,2250,2109
+2026-06-15,Clinic A,Surgical Masks,155,1800,1645
+2026-06-15,Clinic A,Syringes,76,1200,1124
+2026-06-15,Clinic B,Antiseptic Wipes,122,1755,1633
+2026-06-15,Clinic B,Bandages,74,1170,1096
+2026-06-15,Clinic B,Nitrile Gloves (pair),197,3900,3703
+2026-06-15,Clinic B,Paracetamol Tablets,177,2925,2748
+2026-06-15,Clinic B,Surgical Masks,153,2340,2187
+2026-06-15,Clinic B,Syringes,99,1560,1461
+2026-06-15,Clinic C,Antiseptic Wipes,64,944,880
+2026-06-15,Clinic C,Bandages,45,630,585
+2026-06-15,Clinic C,Nitrile Gloves (pair),165,2100,1935
+2026-06-15,Clinic C,Paracetamol Tablets,105,1575,1470
+2026-06-15,Clinic C,Surgical Masks,91,1260,1169
+2026-06-15,Clinic C,Syringes,58,840,782
+2026-06-16,Clinic A,Antiseptic Wipes,118,1350,1232
+2026-06-16,Clinic A,Bandages,85,900,815
+2026-06-16,Clinic A,Nitrile Gloves (pair),211,3000,2789
+2026-06-16,Clinic A,Paracetamol Tablets,160,2250,2090
+2026-06-16,Clinic A,Surgical Masks,106,1800,1694
+2026-06-16,Clinic A,Syringes,79,1200,1121
+2026-06-16,Clinic B,Antiseptic Wipes,128,1755,1627
+2026-06-16,Clinic B,Bandages,82,1170,1088
+2026-06-16,Clinic B,Nitrile Gloves (pair),209,3900,3691
+2026-06-16,Clinic B,Paracetamol Tablets,138,2925,2787
+2026-06-16,Clinic B,Surgical Masks,136,2340,2204
+2026-06-16,Clinic B,Syringes,127,1560,1433
+2026-06-16,Clinic C,Antiseptic Wipes,66,944,878
+2026-06-16,Clinic C,Bandages,38,630,592
+2026-06-16,Clinic C,Nitrile Gloves (pair),151,2100,1949
+2026-06-16,Clinic C,Paracetamol Tablets,106,1575,1469
+2026-06-16,Clinic C,Surgical Masks,97,1260,1163
+2026-06-16,Clinic C,Syringes,44,840,796
+2026-06-17,Clinic A,Antiseptic Wipes,116,1350,1234
+2026-06-17,Clinic A,Bandages,62,900,838
+2026-06-17,Clinic A,Nitrile Gloves (pair),196,3000,2804
+2026-06-17,Clinic A,Paracetamol Tablets,86,2250,2164
+2026-06-17,Clinic A,Surgical Masks,114,1800,1686
+2026-06-17,Clinic A,Syringes,76,1200,1124
+2026-06-17,Clinic B,Antiseptic Wipes,76,1755,1679
+2026-06-17,Clinic B,Bandages,72,1170,1098
+2026-06-17,Clinic B,Nitrile Gloves (pair),268,3900,3632
+2026-06-17,Clinic B,Paracetamol Tablets,206,2925,2719
+2026-06-17,Clinic B,Surgical Masks,150,2340,2190
+2026-06-17,Clinic B,Syringes,110,1560,1450
+2026-06-17,Clinic C,Antiseptic Wipes,62,944,882
+2026-06-17,Clinic C,Bandages,39,630,591
+2026-06-17,Clinic C,Nitrile Gloves (pair),102,2100,1998
+2026-06-17,Clinic C,Paracetamol Tablets,87,1575,1488
+2026-06-17,Clinic C,Surgical Masks,108,1260,1152
+2026-06-17,Clinic C,Syringes,65,840,775
+2026-06-18,Clinic A,Antiseptic Wipes,111,1350,1239
+2026-06-18,Clinic A,Bandages,81,900,819
+2026-06-18,Clinic A,Nitrile Gloves (pair),246,3000,2754
+2026-06-18,Clinic A,Paracetamol Tablets,161,2250,2089
+2026-06-18,Clinic A,Surgical Masks,113,1800,1687
+2026-06-18,Clinic A,Syringes,89,1200,1111
+2026-06-18,Clinic B,Antiseptic Wipes,119,1755,1636
+2026-06-18,Clinic B,Bandages,73,1170,1097
+2026-06-18,Clinic B,Nitrile Gloves (pair),280,3900,3620
+2026-06-18,Clinic B,Paracetamol Tablets,172,2925,2753
+2026-06-18,Clinic B,Surgical Masks,201,2340,2139
+2026-06-18,Clinic B,Syringes,120,1560,1440
+2026-06-18,Clinic C,Antiseptic Wipes,78,944,866
+2026-06-18,Clinic C,Bandages,40,630,590
+2026-06-18,Clinic C,Nitrile Gloves (pair),111,2100,1989
+2026-06-18,Clinic C,Paracetamol Tablets,118,1575,1457
+2026-06-18,Clinic C,Surgical Masks,98,1260,1162
+2026-06-18,Clinic C,Syringes,64,840,776
+2026-06-19,Clinic A,Antiseptic Wipes,69,1350,1281
+2026-06-19,Clinic A,Bandages,59,900,841
+2026-06-19,Clinic A,Nitrile Gloves (pair),226,3000,2774
+2026-06-19,Clinic A,Paracetamol Tablets,137,2250,2113
+2026-06-19,Clinic A,Surgical Masks,156,1800,1644
+2026-06-19,Clinic A,Syringes,56,1200,1144
+2026-06-19,Clinic B,Antiseptic Wipes,118,1755,1637
+2026-06-19,Clinic B,Bandages,62,1170,1108
+2026-06-19,Clinic B,Nitrile Gloves (pair),289,3900,3611
+2026-06-19,Clinic B,Paracetamol Tablets,155,2925,2770
+2026-06-19,Clinic B,Surgical Masks,195,2340,2145
+2026-06-19,Clinic B,Syringes,90,1560,1470
+2026-06-19,Clinic C,Antiseptic Wipes,34,944,910
+2026-06-19,Clinic C,Bandages,47,630,583
+2026-06-19,Clinic C,Nitrile Gloves (pair),148,2100,1952
+2026-06-19,Clinic C,Paracetamol Tablets,110,1575,1465
+2026-06-19,Clinic C,Surgical Masks,75,1260,1185
+2026-06-19,Clinic C,Syringes,68,840,772
+2026-06-20,Clinic A,Antiseptic Wipes,79,1350,1271
+2026-06-20,Clinic A,Bandages,35,900,865
+2026-06-20,Clinic A,Nitrile Gloves (pair),214,3000,2786
+2026-06-20,Clinic A,Paracetamol Tablets,165,2250,2085
+2026-06-20,Clinic A,Surgical Masks,121,1800,1679
+2026-06-20,Clinic A,Syringes,104,1200,1096
+2026-06-20,Clinic B,Antiseptic Wipes,104,1755,1651
+2026-06-20,Clinic B,Bandages,91,1170,1079
+2026-06-20,Clinic B,Nitrile Gloves (pair),327,3900,3573
+2026-06-20,Clinic B,Paracetamol Tablets,221,2925,2704
+2026-06-20,Clinic B,Surgical Masks,115,2340,2225
+2026-06-20,Clinic B,Syringes,111,1560,1449
+2026-06-20,Clinic C,Antiseptic Wipes,52,944,892
+2026-06-20,Clinic C,Bandages,44,630,586
+2026-06-20,Clinic C,Nitrile Gloves (pair),146,2100,1954
+2026-06-20,Clinic C,Paracetamol Tablets,102,1575,1473
+2026-06-20,Clinic C,Surgical Masks,99,1260,1161
+2026-06-20,Clinic C,Syringes,58,840,782
+2026-06-21,Clinic A,Antiseptic Wipes,88,1350,1262
+2026-06-21,Clinic A,Bandages,47,900,853
+2026-06-21,Clinic A,Nitrile Gloves (pair),213,3000,2787
+2026-06-21,Clinic A,Paracetamol Tablets,187,2250,2063
+2026-06-21,Clinic A,Surgical Masks,117,1800,1683
+2026-06-21,Clinic A,Syringes,95,1200,1105
+2026-06-21,Clinic B,Antiseptic Wipes,117,1755,1638
+2026-06-21,Clinic B,Bandages,91,1170,1079
+2026-06-21,Clinic B,Nitrile Gloves (pair),223,3900,3677
+2026-06-21,Clinic B,Paracetamol Tablets,238,2925,2687
+2026-06-21,Clinic B,Surgical Masks,137,2340,2203
+2026-06-21,Clinic B,Syringes,108,1560,1452
+2026-06-21,Clinic C,Antiseptic Wipes,60,944,884
+2026-06-21,Clinic C,Bandages,62,630,568
+2026-06-21,Clinic C,Nitrile Gloves (pair),161,2100,1939
+2026-06-21,Clinic C,Paracetamol Tablets,70,1575,1505
+2026-06-21,Clinic C,Surgical Masks,96,1260,1164
+2026-06-21,Clinic C,Syringes,62,840,778
+2026-06-22,Clinic A,Antiseptic Wipes,61,1350,1289
+2026-06-22,Clinic A,Bandages,76,900,824
+2026-06-22,Clinic A,Nitrile Gloves (pair),184,3000,2816
+2026-06-22,Clinic A,Paracetamol Tablets,119,2250,2131
+2026-06-22,Clinic A,Surgical Masks,152,1800,1648
+2026-06-22,Clinic A,Syringes,82,1200,1118
+2026-06-22,Clinic B,Antiseptic Wipes,123,1755,1632
+2026-06-22,Clinic B,Bandages,86,1170,1084
+2026-06-22,Clinic B,Nitrile Gloves (pair),224,3900,3676
+2026-06-22,Clinic B,Paracetamol Tablets,149,2925,2776
+2026-06-22,Clinic B,Surgical Masks,114,2340,2226
+2026-06-22,Clinic B,Syringes,113,1560,1447
+2026-06-22,Clinic C,Antiseptic Wipes,72,944,872
+2026-06-22,Clinic C,Bandages,46,630,584
+2026-06-22,Clinic C,Nitrile Gloves (pair),141,2100,1959
+2026-06-22,Clinic C,Paracetamol Tablets,107,1575,1468
+2026-06-22,Clinic C,Surgical Masks,52,1260,1208
+2026-06-22,Clinic C,Syringes,51,840,789
+2026-06-23,Clinic A,Antiseptic Wipes,87,1350,1263
+2026-06-23,Clinic A,Bandages,52,900,848
+2026-06-23,Clinic A,Nitrile Gloves (pair),208,3000,2792
+2026-06-23,Clinic A,Paracetamol Tablets,155,2250,2095
+2026-06-23,Clinic A,Surgical Masks,135,1800,1665
+2026-06-23,Clinic A,Syringes,88,1200,1112
+2026-06-23,Clinic B,Antiseptic Wipes,114,1755,1641
+2026-06-23,Clinic B,Bandages,74,1170,1096
+2026-06-23,Clinic B,Nitrile Gloves (pair),242,3900,3658
+2026-06-23,Clinic B,Paracetamol Tablets,222,2925,2703
+2026-06-23,Clinic B,Surgical Masks,177,2340,2163
+2026-06-23,Clinic B,Syringes,114,1560,1446
+2026-06-23,Clinic C,Antiseptic Wipes,54,944,890
+2026-06-23,Clinic C,Bandages,22,630,608
+2026-06-23,Clinic C,Nitrile Gloves (pair),108,2100,1992
+2026-06-23,Clinic C,Paracetamol Tablets,118,1575,1457
+2026-06-23,Clinic C,Surgical Masks,56,1260,1204
+2026-06-23,Clinic C,Syringes,40,840,800
+2026-06-24,Clinic A,Antiseptic Wipes,89,1350,1261
+2026-06-24,Clinic A,Bandages,76,900,824
+2026-06-24,Clinic A,Nitrile Gloves (pair),207,3000,2793
+2026-06-24,Clinic A,Paracetamol Tablets,184,2250,2066
+2026-06-24,Clinic A,Surgical Masks,114,1800,1686
+2026-06-24,Clinic A,Syringes,96,1200,1104
+2026-06-24,Clinic B,Antiseptic Wipes,96,1755,1659
+2026-06-24,Clinic B,Bandages,55,1170,1115
+2026-06-24,Clinic B,Nitrile Gloves (pair),222,3900,3678
+2026-06-24,Clinic B,Paracetamol Tablets,183,2925,2742
+2026-06-24,Clinic B,Surgical Masks,158,2340,2182
+2026-06-24,Clinic B,Syringes,92,1560,1468
+2026-06-24,Clinic C,Antiseptic Wipes,50,944,894
+2026-06-24,Clinic C,Bandages,45,630,585
+2026-06-24,Clinic C,Nitrile Gloves (pair),182,2100,1918
+2026-06-24,Clinic C,Paracetamol Tablets,113,1575,1462
+2026-06-24,Clinic C,Surgical Masks,95,1260,1165
+2026-06-24,Clinic C,Syringes,41,840,799
+2026-06-25,Clinic A,Antiseptic Wipes,80,1350,1270
+2026-06-25,Clinic A,Bandages,53,900,847
+2026-06-25,Clinic A,Nitrile Gloves (pair),136,3000,2864
+2026-06-25,Clinic A,Paracetamol Tablets,123,2250,2127
+2026-06-25,Clinic A,Surgical Masks,117,1800,1683
+2026-06-25,Clinic A,Syringes,94,1200,1106
+2026-06-25,Clinic B,Antiseptic Wipes,125,1755,1630
+2026-06-25,Clinic B,Bandages,83,1170,1087
+2026-06-25,Clinic B,Nitrile Gloves (pair),279,3900,3621
+2026-06-25,Clinic B,Paracetamol Tablets,238,2925,2687
+2026-06-25,Clinic B,Surgical Masks,139,2340,2201
+2026-06-25,Clinic B,Syringes,100,1560,1460
+2026-06-25,Clinic C,Antiseptic Wipes,77,944,867
+2026-06-25,Clinic C,Bandages,39,630,591
+2026-06-25,Clinic C,Nitrile Gloves (pair),104,2100,1996
+2026-06-25,Clinic C,Paracetamol Tablets,112,1575,1463
+2026-06-25,Clinic C,Surgical Masks,79,1260,1181
+2026-06-25,Clinic C,Syringes,67,840,773
+2026-06-26,Clinic A,Antiseptic Wipes,91,1350,1259
+2026-06-26,Clinic A,Bandages,85,900,815
+2026-06-26,Clinic A,Nitrile Gloves (pair),212,3000,2788
+2026-06-26,Clinic A,Paracetamol Tablets,154,2250,2096
+2026-06-26,Clinic A,Surgical Masks,117,1800,1683
+2026-06-26,Clinic A,Syringes,109,1200,1091
+2026-06-26,Clinic B,Antiseptic Wipes,124,1755,1631
+2026-06-26,Clinic B,Bandages,78,1170,1092
+2026-06-26,Clinic B,Nitrile Gloves (pair),222,3900,3678
+2026-06-26,Clinic B,Paracetamol Tablets,168,2925,2757
+2026-06-26,Clinic B,Surgical Masks,184,2340,2156
+2026-06-26,Clinic B,Syringes,110,1560,1450
+2026-06-26,Clinic C,Antiseptic Wipes,59,944,885
+2026-06-26,Clinic C,Bandages,38,630,592
+2026-06-26,Clinic C,Nitrile Gloves (pair),89,2100,2011
+2026-06-26,Clinic C,Paracetamol Tablets,139,1575,1436
+2026-06-26,Clinic C,Surgical Masks,62,1260,1198
+2026-06-26,Clinic C,Syringes,44,840,796
+2026-06-27,Clinic A,Antiseptic Wipes,85,1350,1265
+2026-06-27,Clinic A,Bandages,55,900,845
+2026-06-27,Clinic A,Nitrile Gloves (pair),166,3000,2834
+2026-06-27,Clinic A,Paracetamol Tablets,155,2250,2095
+2026-06-27,Clinic A,Surgical Masks,142,1800,1658
+2026-06-27,Clinic A,Syringes,85,1200,1115
+2026-06-27,Clinic B,Antiseptic Wipes,117,1755,1638
+2026-06-27,Clinic B,Bandages,60,1170,1110
+2026-06-27,Clinic B,Nitrile Gloves (pair),245,3900,3655
+2026-06-27,Clinic B,Paracetamol Tablets,279,2925,2646
+2026-06-27,Clinic B,Surgical Masks,172,2340,2168
+2026-06-27,Clinic B,Syringes,125,1560,1435
+2026-06-27,Clinic C,Antiseptic Wipes,62,944,882
+2026-06-27,Clinic C,Bandages,47,630,583
+2026-06-27,Clinic C,Nitrile Gloves (pair),175,2100,1925
+2026-06-27,Clinic C,Paracetamol Tablets,102,1575,1473
+2026-06-27,Clinic C,Surgical Masks,87,1260,1173
+2026-06-27,Clinic C,Syringes,57,840,783
+2026-06-28,Clinic A,Antiseptic Wipes,110,1350,1240
+2026-06-28,Clinic A,Bandages,68,900,832
+2026-06-28,Clinic A,Nitrile Gloves (pair),215,3000,2785
+2026-06-28,Clinic A,Paracetamol Tablets,159,2250,2091
+2026-06-28,Clinic A,Surgical Masks,104,1800,1696
+2026-06-28,Clinic A,Syringes,67,1200,1133
+2026-06-28,Clinic B,Antiseptic Wipes,74,1755,1681
+2026-06-28,Clinic B,Bandages,93,1170,1077
+2026-06-28,Clinic B,Nitrile Gloves (pair),281,3900,3619
+2026-06-28,Clinic B,Paracetamol Tablets,184,2925,2741
+2026-06-28,Clinic B,Surgical Masks,149,2340,2191
+2026-06-28,Clinic B,Syringes,98,1560,1462
+2026-06-28,Clinic C,Antiseptic Wipes,54,944,890
+2026-06-28,Clinic C,Bandages,50,630,580
+2026-06-28,Clinic C,Nitrile Gloves (pair),103,2100,1997
+2026-06-28,Clinic C,Paracetamol Tablets,79,1575,1496
+2026-06-28,Clinic C,Surgical Masks,56,1260,1204
+2026-06-28,Clinic C,Syringes,70,840,770
+2026-06-29,Clinic A,Antiseptic Wipes,80,1350,1270
+2026-06-29,Clinic A,Bandages,65,900,835
+2026-06-29,Clinic A,Nitrile Gloves (pair),181,3000,2819
+2026-06-29,Clinic A,Paracetamol Tablets,162,2250,2088
+2026-06-29,Clinic A,Surgical Masks,61,1800,1739
+2026-06-29,Clinic A,Syringes,116,1200,1084
+2026-06-29,Clinic B,Antiseptic Wipes,136,1755,1619
+2026-06-29,Clinic B,Bandages,77,1170,1093
+2026-06-29,Clinic B,Nitrile Gloves (pair),246,3900,3654
+2026-06-29,Clinic B,Paracetamol Tablets,206,2925,2719
+2026-06-29,Clinic B,Surgical Masks,115,2340,2225
+2026-06-29,Clinic B,Syringes,106,1560,1454
+2026-06-29,Clinic C,Antiseptic Wipes,51,944,893
+2026-06-29,Clinic C,Bandages,56,630,574
+2026-06-29,Clinic C,Nitrile Gloves (pair),123,2100,1977
+2026-06-29,Clinic C,Paracetamol Tablets,89,1575,1486
+2026-06-29,Clinic C,Surgical Masks,93,1260,1167
+2026-06-29,Clinic C,Syringes,65,840,775
+2026-06-30,Clinic A,Antiseptic Wipes,116,1350,1234
+2026-06-30,Clinic A,Bandages,55,900,845
+2026-06-30,Clinic A,Nitrile Gloves (pair),193,3000,2807
+2026-06-30,Clinic A,Paracetamol Tablets,153,2250,2097
+2026-06-30,Clinic A,Surgical Masks,147,1800,1653
+2026-06-30,Clinic A,Syringes,101,1200,1099
+2026-06-30,Clinic B,Antiseptic Wipes,107,1755,1648
+2026-06-30,Clinic B,Bandages,63,1170,1107
+2026-06-30,Clinic B,Nitrile Gloves (pair),331,3900,3569
+2026-06-30,Clinic B,Paracetamol Tablets,210,2925,2715
+2026-06-30,Clinic B,Surgical Masks,163,2340,2177
+2026-06-30,Clinic B,Syringes,97,1560,1463
+2026-06-30,Clinic C,Antiseptic Wipes,33,944,911
+2026-06-30,Clinic C,Bandages,52,630,578
+2026-06-30,Clinic C,Nitrile Gloves (pair),156,2100,1944
+2026-06-30,Clinic C,Paracetamol Tablets,91,1575,1484
+2026-06-30,Clinic C,Surgical Masks,62,1260,1198
+2026-06-30,Clinic C,Syringes,50,840,790
